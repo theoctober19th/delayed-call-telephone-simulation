@@ -5,4 +5,4 @@ I created this project during my sixth semester while studying the course Simula
 
 To run:
 * Open terminal in root directory
-* ```java TelephoneCallSimulation```
+* Run this command: ```java TelephoneCallSimulation```
